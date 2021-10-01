@@ -8,9 +8,3 @@
 - npm run dev
 ```
 
-## UI
-
-### Home Video
-
-![Home](screenshots/video.gif)
-
